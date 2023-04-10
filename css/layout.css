@@ -2,16 +2,18 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    background-image: url("../imagens/fundo2.jpg");
+    background-repeat: repeat;
+    background-size: cover;
 }
 .cabecalho{
     padding: 30px;
     text-align: center;
-    background-color: rgb(231, 7, 7);
+    background-color: rgba(231, 7, 7, 0.767);
 }
 .card
 {
-    background-color: rgb(231, 7, 7);
+    background-color: rgba(231, 7, 7, 0.767);
     padding: 20px;
     margin-top: 20px;
 }
@@ -24,7 +26,6 @@ body{
 {
     float: left;
     width: 18%;
-    background-color: black;
     padding-left: 20px;
 }
 .imagens
