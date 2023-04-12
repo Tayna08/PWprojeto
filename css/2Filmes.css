@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url("img/fundo2.jpg");
+    background-image: url("../img/fundo2.jpg");
     background-repeat: repeat;
     background-size: cover;
 }
